@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="orders1" class="com.test.spring5.beanLife.Orders" init-method="initMethod" destroy-method="destoryMethod">
+        <property name="oname" value="订单1"></property>
+    </bean>
+
+    <bean id="mybeanpost1" class="com.test.spring5.beanLife.MyBeanPost" init-method="initMethod" destroy-method="destoryMethod">
+        <property name="oname" value="订单2"></property>
+    </bean>
+
+</beans>

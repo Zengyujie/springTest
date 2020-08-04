@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--内部bean的方式来嵌套定义，效果和外部bean等同 -->
+    <bean id="emp1" class="com.test.spring5.bean.Emp">
+        <property name="ename" value="lucy"></property>
+        <property name="gender" value="女"></property>
+        <property name="dept">
+            <bean id="dept1" class="com.test.spring5.bean.Dept">
+                <property name="dname" value="安保"></property>
+            </bean>
+        </property>
+    </bean>
+
+
+
+
+</beans>

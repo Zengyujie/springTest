@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
+
+
+    <!--把注入部分提取出来
+     1，引入util空间
+     2，使用util标签提取集合类型属性注入
+     -->
+
+    <util:list id="courseList">
+        <value>java</value>
+        <value>c++</value>
+    </util:list>
+
+    <bean id="stu5_1" class="com.test.spring5.bean.Stu">
+        <property name="courses" ref="courseList"></property>
+    </bean>
+
+</beans>

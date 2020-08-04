@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--byName根据属性名称注入：要注入的id的值必须和属性值相同
+
+    ，byType根据类型注入：id不必与属性名相同，但是相同类型的bean只能定义一个
+     -->
+    <bean id="autoemp1" class="com.test.spring5.bean.Emp" autowire="byType">
+        <!-- 手动装配<property name="dept" ref="autodept1"></property>-->
+
+    </bean>
+
+    <!--使用byName时 如果此处的dept与emp中的属性名不同，旧无法注入成功-->
+    <bean id="dept1" class="com.test.spring5.bean.Dept">
+
+    </bean>
+</beans>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--添加p名称空间 -->
+
+
+    <!--调用之前需要配置，class为全类名，id是为该类指定的唯一标识符 -->
+    <!--默认调用无参构造调用 -->
+    <bean id="user" class="com.test.spring5.User"></bean>
+
+
+    <bean id="user1" class="com.test.spring5.User">
+        <!--使用set方法注入属性  -->
+        <property name="name" value="张三"></property>
+        <property name="id" value="1"></property>
+    </bean>
+
+    <!--通过有参构造注入属性 -->
+    <bean id="order1" class="com.test.spring5.Order">
+        <constructor-arg name="orderName" value="订单1"></constructor-arg>
+        <constructor-arg name="address" value="大连"></constructor-arg>
+    </bean>
+
+    <!--注入属性时可以使用index，为构造器中参数声明的顺序 -->
+    <bean id="order2" class="com.test.spring5.Order">
+        <constructor-arg index="0" value="订单1"></constructor-arg>
+        <constructor-arg index="1" value="大连"></constructor-arg>
+    </bean>
+
+    <!--p名称空间注入，了解即可-->
+    <bean id="order3" class="com.test.spring5.Order" p:orderName="订单2" p:address="北京"></bean>
+
+    <!--属性设置空值 -->
+    <bean id="order4" class="com.test.spring5.Order">
+        <property name="orderName" value="订单4"></property>
+        <property name="address">
+            <null/>
+        </property>
+    </bean>
+
+    <!--属性中包含特殊符号
+     1,可以用&lt，&gt转意
+     2，用CDATA转义-->
+    <bean id="order4" class="com.test.spring5.Order">
+        <property name="orderName" value="订单4"></property>
+        <property name="address">
+            <value><![CDATA[<<南京>>]]]></value>
+        </property>
+    </bean>
+
+
+</beans>

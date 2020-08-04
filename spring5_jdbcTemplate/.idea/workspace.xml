@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f22ec029-6cf9-46a3-bea0-10a0cd14ab6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fU5Eki2DoiLdSoewakJ8NBbccP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\idea_workspace\spring5_jdbcTemplate\src" />
+      <recent name="D:\java\idea_workspace\spring5_jdbcTemplate\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test.test10">
+    <configuration name="Test.test10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring5_jdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.spring5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.test.spring5.Test" />
+      <option name="METHOD_NAME" value="test10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring5_jdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.spring5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.test.spring5.Test" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring5_jdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.spring5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.test.spring5.Test" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring5_jdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.spring5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.test.spring5.Test" />
+      <option name="METHOD_NAME" value="test8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring5_jdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.spring5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.test.spring5.Test" />
+      <option name="METHOD_NAME" value="test9" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test.test10" />
+        <item itemvalue="JUnit.Test.test9" />
+        <item itemvalue="JUnit.Test.test8" />
+        <item itemvalue="JUnit.Test.test7" />
+        <item itemvalue="JUnit.Test.test6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f22ec029-6cf9-46a3-bea0-10a0cd14ab6f" name="Default Changelist" comment="" />
+      <created>1596259720815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596259720815</updated>
+      <workItem from="1596259724851" duration="12760000" />
+      <workItem from="1596331619985" duration="8686000" />
+      <workItem from="1596418430759" duration="2746000" />
+      <workItem from="1596502037723" duration="10166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="775" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1596522137503">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="775" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1596522137503" />
+    <state x="725" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596279026208">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="725" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1596279026208" />
+    <state width="1237" height="113" key="GridCell.Tab.0.bottom" timestamp="1596541933968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596541933968" />
+    <state width="1237" height="113" key="GridCell.Tab.0.center" timestamp="1596541933968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596541933968" />
+    <state width="1237" height="113" key="GridCell.Tab.0.left" timestamp="1596541933968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596541933968" />
+    <state width="1237" height="113" key="GridCell.Tab.0.right" timestamp="1596541933968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596541933968" />
+    <state width="534" height="194" key="GridCell.Tab.1.bottom" timestamp="1596288274176">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="534" height="194" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596288274176" />
+    <state width="534" height="194" key="GridCell.Tab.1.center" timestamp="1596288274175">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="534" height="194" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596288274175" />
+    <state width="534" height="194" key="GridCell.Tab.1.left" timestamp="1596288274175">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="534" height="194" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596288274175" />
+    <state width="534" height="194" key="GridCell.Tab.1.right" timestamp="1596288274176">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="534" height="194" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596288274176" />
+    <state x="451" y="160" key="com.intellij.ide.util.TipDialog" timestamp="1596502092276">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="451" y="160" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1596502092275" />
+    <state x="678" y="241" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596285838988">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="678" y="241" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1596285838988" />
+  </component>
+</project>

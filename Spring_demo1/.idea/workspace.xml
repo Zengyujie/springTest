@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c53e18a7-e6cd-4ef5-a240-948c2dc939ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fFwB6UmXpqcNsbSr9N4rY8W8nD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\idea_workspace\Spring_demo1\src" />
+      <recent name="D:\java\idea_workspace\Spring_demo1\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestDemo.test9">
+    <configuration name="TestDemo.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring_demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.spring5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.test.spring5.TestDemo" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring_demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.spring5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.test.spring5.TestDemo" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring_demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.spring5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.test.spring5.TestDemo" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring_demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.spring5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.test.spring5.TestDemo" />
+      <option name="METHOD_NAME" value="test8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring_demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.spring5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.spring5" />
+      <option name="MAIN_CLASS_NAME" value="com.test.spring5.TestDemo" />
+      <option name="METHOD_NAME" value="test9" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDemo.test9" />
+        <item itemvalue="JUnit.TestDemo.test8" />
+        <item itemvalue="JUnit.TestDemo.test6" />
+        <item itemvalue="JUnit.TestDemo.test7" />
+        <item itemvalue="JUnit.TestDemo.test5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c53e18a7-e6cd-4ef5-a240-948c2dc939ca" name="Default Changelist" comment="" />
+      <created>1595827010020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595827010020</updated>
+      <workItem from="1595827014360" duration="19780000" />
+      <workItem from="1596014660290" duration="1090000" />
+      <workItem from="1596108517788" duration="1844000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="801" y="63" key="#com.intellij.ide.util.MemberChooser" timestamp="1595852305747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="801" y="63" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1595852305747" />
+    <state width="595" height="228" key="GridCell.Tab.0.bottom" timestamp="1595855850088">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="228" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595855850088" />
+    <state width="595" height="228" key="GridCell.Tab.0.center" timestamp="1595855850088">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="228" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595855850088" />
+    <state width="595" height="228" key="GridCell.Tab.0.left" timestamp="1595855850088">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="228" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595855850088" />
+    <state width="595" height="228" key="GridCell.Tab.0.right" timestamp="1595855850088">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="228" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595855850088" />
+    <state x="655" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1596108518839">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="655" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1596108518839" />
+    <state x="697" y="245" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595827700979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="697" y="245" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1595827700979" />
+    <state x="56" y="0" key="new project wizard" timestamp="1596113255885">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="56" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1596113255885" />
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1595855810298">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1595855810298" />
+  </component>
+</project>

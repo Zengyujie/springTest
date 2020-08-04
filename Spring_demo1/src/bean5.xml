@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="stu1" class="com.test.spring5.bean.Stu">
+        <!-- 数组类型的注入-->
+        <property name="cources">
+            <array>
+                <value>java</value>
+                <value>sql</value>
+                <value>python</value>
+            </array>
+        </property>
+        <property name="list">
+            <list>
+                <value>数字1</value>
+                <value>数字2</value>
+            </list>
+        </property>
+        <property name="map">
+            <map>
+                <entry key="java" value="java"></entry>
+                <entry key="c++" value="c++"></entry>
+            </map>
+        </property>
+        <property name="set">
+            <set>
+                <value>mysql</value>
+                <value>pychrom</value>
+            </set>
+        </property>
+        <property name="courses">
+            <list>
+                <ref bean="course1"></ref>
+                <ref bean="course2"></ref>
+            </list>
+        </property>
+    </bean>
+
+    <bean id="course1" class="com.test.spring5.bean.Course">
+        <property name="cname" value="框架课程"></property>
+    </bean>
+    <bean id="course2" class="com.test.spring5.bean.Course">
+        <property name="cname" value="基础框架"></property>
+    </bean>
+
+
+</beans>
